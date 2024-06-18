@@ -2,6 +2,6 @@
   "name": "0xosman",
   "website": "https://github.com/osmanbo",
   "description": "Don't Trust, Verify",
-  "logo": "https://pbs.twimg.com/profile_images/1722976497764335616/3yWgLp0X_400x400.jpg",
+  "logo": "https://github.com/osmanbo/aligned/blob/main/1.png",
   "twitter": "https://twitter.com/0xosman_"
 }
